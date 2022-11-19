@@ -11,10 +11,11 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
+  background-color: #eaac8b;
 }
 
 a {
-  color: #149ddd;
+  color: #eaac8b;
   text-decoration: none;
 }
 
@@ -78,7 +79,7 @@ h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #040b14;
+  background: #6d597a;
   overflow-y: auto;
 }
 
@@ -202,7 +203,7 @@ h6 {
   font-size: 24px;
   transition: all 0.4s;
   outline: none !important;
-  background-color: #149ddd;
+  background-color: #6d597a;
   color: #fff;
   width: 40px;
   height: 40px;
