@@ -561,6 +561,13 @@ section {
   z-index: 1;
 }
 
+.portfolio .portfolio-wrap .img-fluid {
+  width: 100%;
+  display: block;
+  object-fit: cover;
+  height: 300px;
+}
+
 .portfolio .portfolio-wrap::before {
   content: "";
   background: rgba(255, 255, 255, 0.5);
